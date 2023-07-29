@@ -1,4 +1,4 @@
-**Power BI Project || Sales Insights Data Analysis Project **
+**Power BI Project | Sales Insights Data Analysis Project **
 
 **1. Problem Statement:**
 
